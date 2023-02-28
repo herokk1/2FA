@@ -11,5 +11,5 @@ npm install speakeasy
 ```
 and
 ```
-npm install qrcpde
+npm install qrcode
 ```
